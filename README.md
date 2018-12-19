@@ -13,3 +13,4 @@ Newton root finding.
 KNN.
 Cubic spline interpolation.
 Generate correlated normals.
+Iteratively reweighted least squares.
