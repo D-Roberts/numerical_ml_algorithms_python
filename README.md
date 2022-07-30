@@ -14,4 +14,4 @@ KNN.
 Cubic spline interpolation.
 Generate correlated normals.
 Iteratively reweighted least squares.
-# TODO @dr : cleanup and commit more ml/dl algo codes (from years back as well) from local for version control safekeeping
+TODO @dr : cleanup and commit more ml/dl algo codes (from years back as well) from local for version control safekeeping
