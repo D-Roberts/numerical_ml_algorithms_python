@@ -1,5 +1,5 @@
-# numerical_algorithms
-Python3 implementation of a few numerical algorithms.
+# numerical and ml algos
+Python3 implementation of a few fundamental algorithms.
 
 Linear regression analytical.
 Linear regression SGD.
