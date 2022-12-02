@@ -14,5 +14,6 @@ KNN.
 Cubic spline interpolation.
 Generate correlated normals.
 Iteratively reweighted least squares.
-
-TODO @dr : cleanup and commit more ml/dl algo codes (from years back as well) from local for version control safekeeping
+Image classification with EfficientNet.
+Text classification with pretrained BERT.
+Basic neural recommender from scratch.
