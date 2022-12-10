@@ -1,3 +1,8 @@
+"""
+vanilla text classification with pretrained hf berts.
+The 1HR ML model series.
+"""
+
 import datasets
 from datasets import load_dataset
 import json
