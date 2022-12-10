@@ -1,6 +1,6 @@
 """
 Classify cifar 10
-from scratch
+basic with efficientnet - the 1HR ML model series
 """
 import tensorflow as tf 
 import numpy as np 
