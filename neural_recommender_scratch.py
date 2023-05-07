@@ -170,7 +170,6 @@ def get_with_feedback(data, num_users, num_items, feedback="explicit"):
 
 # Implement the embeddings model with Users and Movies embeddings here in a "predict rating"
 # can easily add more features to this
-# TODO: include a negative sample to do the Implicit feedback variation with binary crossentropy 
 
 class CF(tf.keras.Model):
     def __init__(self, num_users, num_items, embedding_size, **kwargs):
