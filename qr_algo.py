@@ -96,8 +96,6 @@ def main():
 	print(qr_obj())
 	print(np.linalg.eig(a)[0]) # still the last not quite the same
 	
-	# TODO:
-	# LR algo
 	
 
 if __name__ == '__main__':
